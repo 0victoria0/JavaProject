@@ -2,6 +2,11 @@
   *.apk
   bin/
   gen/
+  .settings
   .settings/
   proguard/
 .DS_Store
+.metadata
+.project
+.settings
+.classpath
